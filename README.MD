@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/logo.png" width = "300" height = "300">
+  <img src="./images/logo.png" width = "300">
   <p align="center">Xchange is a mobile wallet app project that mimics how exchanges work. It uses Firebase as its database and allows users to send and receive demo money for testing purposes.</p>
 </p>
 
